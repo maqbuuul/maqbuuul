@@ -1,4 +1,4 @@
-## 🚀 Data Scientist | ML & BI Specialist | Python, SQL, Power BI, Tableau
+## Data Analyst | ML & BI Specialist | Python, SQL, Power BI, Tableau
 
 Turning data into actionable insights through advanced analytics and intuitive dashboards.
 
