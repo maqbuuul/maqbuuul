@@ -1,5 +1,4 @@
-## Data Analyst | ML & BI Specialist | Python, SQL, Power BI, Tableau
-
+# Data Analyst | ML & BI Specialist | Python, SQL, Power BI, Tableau
 **Turning data into actionable insights through advanced analytics and intuitive dashboards**  
 I’m passionate about transforming complex data into powerful, actionable insights. I uncover hidden patterns, optimize processes, and predict future trends by harnessing the power of advanced analytics, machine learning, and interactive dashboards. My mission is to empower businesses to make data-driven decisions that fuel growth, innovation, and lasting success.
 
