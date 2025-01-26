@@ -1,8 +1,4 @@
-# Abdiwahid Hussein Ali  
-### **Data Analyst | ML & BI Specialist**  
-*Transforming Data into Insights, Innovation, and Impact*  
-
-### 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on data visualization projects and advanced analytics solutions.<br>👯 I’m looking to collaborate on machine learning, BI tools, and open-source data science projects.<br>🤝 I’m looking for help with building scalable data pipelines and advanced AI models.<br>🌱 I’m currently learning cloud computing and MLOps to enhance my data science workflow.<br>💬 Ask me about data analysis, visualization, and storytelling with data.<br>⚡ Fun fact: I enjoy uncovering patterns in data as much as solving puzzles in real life!
 
 
