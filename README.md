@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/codeandcharts/profile_banner/refs/heads/main/1920x600.png?token=GHSAT0AAAAAAC5E2QE36SRVRNV6M6HCKLDCZ4WLPUQ" 
+<img src="https://raw.githubusercontent.com/codeandcharts/profile_banner/refs/heads/main/1920x600.png?token=GHSAT0AAAAAAC5E2QE2ZCRTEI57W66YLY7OZ4WLV7A" 
      width="1920" 
      height="300"
      style="display: block; margin: 5px auto 5px;">
