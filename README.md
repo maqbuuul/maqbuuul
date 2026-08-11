@@ -1,75 +1,110 @@
-# Hi, I'm Abdiwahid 👋
+Hi, I'm Abdiwahid 👋
 
-Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yoolify](https://yoolify.com) | [LinkedIn](https://linkedin.com/in/abdiwahid-ali) | 📫 hello@yoolify.com
+I build profit and retention data systems for e-commerce and subscription businesses.
 
-<p>
-  <img src="https://devicons.io/devicons/icons/python.svg" height="40" title="Python" alt="Python"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/postgresql.svg" height="40" title="SQL / PostgreSQL" alt="PostgreSQL"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/dbt-icon.svg" height="40" title="dbt" alt="dbt"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/airflow.svg" height="40" title="Apache Airflow" alt="Apache Airflow"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/apache-spark.svg" height="40" title="PySpark" alt="Apache Spark"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/kafka-icon.svg" height="40" title="Apache Kafka" alt="Kafka"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/google-cloud.svg" height="40" title="Google Cloud / BigQuery" alt="Google Cloud"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" height="40" title="DuckDB" alt="DuckDB"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn" alt="scikit-learn"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/pandas-icon.svg" height="40" title="pandas" alt="pandas"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/numpy.svg" height="40" title="NumPy" alt="NumPy"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/jupyter.svg" height="40" title="Jupyter" alt="Jupyter"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/fastapi-icon.svg" height="40" title="FastAPI" alt="FastAPI"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" title="MLflow" alt="MLflow"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/dvc/13ADC7" height="40" title="DVC" alt="DVC"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/shopify.svg" height="40" title="Shopify API" alt="Shopify"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/meta-icon.svg" height="40" title="Meta Ads API" alt="Meta"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/google-ads.svg" height="40" title="Google Ads API" alt="Google Ads"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/tiktok/000000" height="40" title="TikTok Ads" alt="TikTok"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" title="WhatsApp API" alt="WhatsApp"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/google-analytics.svg" height="40" title="GA4" alt="Google Analytics"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="40" title="Streamlit" alt="Streamlit"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" height="40" title="Plotly" alt="Plotly"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/grafana.svg" height="40" title="Grafana" alt="Grafana"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/docker-icon.svg" height="40" title="Docker" alt="Docker"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/git-icon.svg" height="40" title="Git" alt="Git"/>&nbsp;
-  <img src="https://devicons.io/devicons/icons/github-actions.svg" height="40" title="GitHub Actions" alt="GitHub Actions"/>
+I work across data engineering, analytics, and machine learning to turn messy customer and transaction data into production systems for churn, LTV, cohort analysis, margin, and customer activation.
+
+17 ML models in production.
+
+Website · LinkedIn · hello@yoolify.com
+
+What I build
+
+Customer intelligence — churn, LTV, cohorts, retention, and profitability
+
+Data platforms — reliable warehouses, pipelines, transformations, and production ML
+
+Activation systems — turn predictions into audiences for Meta, Google, TikTok, and CRM
+
+Open-source tooling — practical data infrastructure for e-commerce teams
+
+Currently building
+
+Project
+
+Description
+
+cohort-kit
+
+Open-source dbt + Python toolkit for cohort analysis, NRR/GRR, and LTV
+
+shopify-profit-stack
+
+Production-style e-commerce stack for profit, churn, LTV, and activation
+
+The Glass Warehouse
+
+My company's data platform, built in public with live metrics and forecast tracking
+
+Stack
+
+Data Engineering
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" height="38" title="Python" alt="Python">
+  <img src="https://cdn.simpleicons.org/postgresql" height="38" title="PostgreSQL" alt="PostgreSQL">
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="38" title="Apache Airflow" alt="Apache Airflow">
+  <img src="https://cdn.simpleicons.org/apachespark" height="38" title="Apache Spark" alt="Apache Spark">
+  <img src="https://cdn.simpleicons.org/apachekafka" height="38" title="Apache Kafka" alt="Apache Kafka">
+  <img src="https://cdn.simpleicons.org/googlecloud" height="38" title="Google Cloud" alt="Google Cloud">
+  <img src="https://cdn.simpleicons.org/duckdb" height="38" title="DuckDB" alt="DuckDB">
+  <img src="https://cdn.simpleicons.org/amazonwebservices" height="38" title="AWS" alt="AWS">
+  <img src="https://cdn.simpleicons.org/snowflake" height="38" title="Snowflake" alt="Snowflake">
+  <img src="https://cdn.simpleicons.org/dbt" height="38" title="dbt" alt="dbt">
 </p>
 
-*Also in the stack: XGBoost · LightGBM · Prophet · Delta Lake*
+Also: Delta Lake · AWS Neptune
 
-> I build profit and retention data systems for e-commerce & subscription brands — churn, LTV, and true-margin models, reverse-ETL'd back into the ad platforms. 17 ML models in production, including for two companies I co-own. My own money rides on my forecasts being right.
+Machine Learning
 
-## 🔨 Current Projects
+<p align="left">
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="38" title="scikit-learn" alt="scikit-learn">
+  <img src="https://cdn.simpleicons.org/pandas" height="38" title="pandas" alt="pandas">
+  <img src="https://cdn.simpleicons.org/numpy" height="38" title="NumPy" alt="NumPy">
+  <img src="https://cdn.simpleicons.org/jupyter" height="38" title="Jupyter" alt="Jupyter">
+  <img src="https://cdn.simpleicons.org/fastapi" height="38" title="FastAPI" alt="FastAPI">
+  <img src="https://cdn.simpleicons.org/mlflow" height="38" title="MLflow" alt="MLflow">
+  <img src="https://cdn.simpleicons.org/dvc" height="38" title="DVC" alt="DVC">
+  <img src="https://cdn.simpleicons.org/xgboost" height="38" title="XGBoost" alt="XGBoost">
+</p>
 
-- **[cohort-kit](https://github.com/maqbuuul/cohort-kit)** — open-source dbt + Python engine: cohort triangles, NRR/GRR decomposition, and LTV from raw Stripe/Shopify-shaped transactions, one command. 🚧
-- **[shopify-profit-stack](https://github.com/maqbuuul/shopify-profit-stack)** — deployable reference stack: messy realistic data → warehouse → churn/LTV models → reverse-ETL-ready audience exports. 🚧
-- **The Glass Warehouse** — my own company's data platform, run in public: live indexed metrics and monthly forecasts graded against actuals. 🔜
+Also: LightGBM · Prophet
 
-## 📌 How I think about data systems
+Analytics & Activation
 
-1. **One source of truth first.** Models built on scattered data are opinions with extra steps.
-2. **Production or it doesn't count.** A notebook that ran once is a demo, not a system.
-3. **Close the loop.** A prediction that never reaches the ad platform or CRM changed nothing.
-4. **Measure honestly.** I publish my forecasts before the month happens — then grade them.
+<p align="left">
+  <img src="https://cdn.simpleicons.org/streamlit" height="38" title="Streamlit" alt="Streamlit">
+  <img src="https://cdn.simpleicons.org/plotly" height="38" title="Plotly" alt="Plotly">
+  <img src="https://cdn.simpleicons.org/grafana" height="38" title="Grafana" alt="Grafana">
+  <img src="https://cdn.simpleicons.org/shopify" height="38" title="Shopify" alt="Shopify">
+  <img src="https://cdn.simpleicons.org/meta" height="38" title="Meta" alt="Meta">
+  <img src="https://cdn.simpleicons.org/googleads" height="38" title="Google Ads" alt="Google Ads">
+  <img src="https://cdn.simpleicons.org/tiktok" height="38" title="TikTok" alt="TikTok">
+  <img src="https://cdn.simpleicons.org/whatsapp" height="38" title="WhatsApp" alt="WhatsApp">
+  <img src="https://cdn.simpleicons.org/googleanalytics" height="38" title="Google Analytics" alt="Google Analytics">
+</p>
 
-## 🌱 When I'm not building
+Engineering & MLOps
 
-- Writing about retention, cohort analysis, and profit-per-customer on [LinkedIn](https://linkedin.com/in/abdiwahid-ali).
-- Running the data behind my own consumer brands in Nairobi — the best test environment I could ask for.
-- I started in civil engineering and lost money on my first Shopify store. Both still shape how I build: find the failure points, and measure honestly.
+<p align="left">
+  <img src="https://cdn.simpleicons.org/docker" height="38" title="Docker" alt="Docker">
+  <img src="https://cdn.simpleicons.org/git" height="38" title="Git" alt="Git">
+  <img src="https://cdn.simpleicons.org/github" height="38" title="GitHub" alt="GitHub">
+  <img src="https://cdn.simpleicons.org/githubactions" height="38" title="GitHub Actions" alt="GitHub Actions">
+</p>
 
-<!-- ══════════ PASTE UNTIL HERE ══════════ -->
----
+How I think about data systems
 
-# SETUP NOTES (for you, not the README)
+01 — One source of truthModels built on scattered data are opinions with extra steps.
 
-**Icon sources (all verified):**
-- devicons.io (19 icons): URLs taken verbatim from their published catalog at devicons.io/icons — includes the real **dbt** logo (`dbt-icon.svg`), plus Meta, Google Ads, GA4, Shopify, Kafka, Airflow, Spark.
-- devicons/devicon on GitHub (4): DuckDB, scikit-learn, Streamlit, Plotly — each URL verified HTTP 200 (devicons.io's catalog doesn't carry these).
-- simple-icons CDN (4): MLflow, DVC, TikTok, WhatsApp — slugs verified against the simple-icons registry.
-- No library anywhere carries: XGBoost, LightGBM, Prophet, Delta Lake → the italic "Also in the stack" line. Do not substitute lookalike logos.
-- Resize the whole strip with one find-and-replace on `height="40"`.
-- The two Current Projects repo links will 404 until you create the repos — create them (even with a README-only first commit) before pushing the profile, or drop the links until then.
+02 — Production or it doesn't countA notebook that ran once is a demo, not a system.
 
-**Pinned repositories (6 slots, in order as they exist):** cohort-kit · shopify-profit-stack · glass-warehouse · roas-illusion · two strongest practice projects, re-README'd to open with the business problem.
+03 — Close the loopA prediction that never reaches the ad platform or CRM changed nothing.
 
-**Repo hygiene:** every pinned repo needs README (business problem first), architecture diagram, run command, screenshot. Delete unchanged forks and empty repos. Topics: `churn`, `ltv`, `cohort-analysis`, `dbt`, `ecommerce`, `reverse-etl`.
+04 — Measure honestlyI publish forecasts before the month happens, then grade them against reality.
 
-**Profile settings:** name "Abdiwahid Ali" · bio "Profit & retention data systems for e-commerce brands · Churn · LTV · Reverse ETL" · location "Nairobi, Kenya (Remote)" · link yoolify.com · public email hello@yoolify.com.
+Connect
+
+Website · LinkedIn
+
+Open to: retention analytics, cohort tooling, e-commerce data infrastructure, and production ML collaborations.
