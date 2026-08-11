@@ -11,18 +11,26 @@
 
 Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yoolify](https://yoolify.com) | [LinkedIn](https://linkedin.com/in/abdiwahid-ali)
 
+## Stack
+
+**Data Platform**
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="28" title="Python" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="28" title="Go" alt="Go">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" height="28" title="PostgreSQL" alt="PostgreSQL">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="28" title="Google BigQuery" alt="Google BigQuery">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg" height="28" title="DuckDB" alt="DuckDB">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/delta/default.svg" height="28" title="Delta Lake" alt="Delta Lake">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-parquet/default.svg" height="28" title="Apache Parquet" alt="Apache Parquet">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dbt/default.svg" height="28" title="dbt" alt="dbt">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-airflow/default.svg" height="28" title="Apache Airflow" alt="Apache Airflow">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-spark/default.svg" height="28" title="PySpark" alt="Apache Spark">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-spark/default.svg" height="28" title="Apache Spark / PySpark" alt="Apache Spark">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-kafka/default.svg" height="28" title="Apache Kafka" alt="Apache Kafka">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-parquet/default.svg" height="28" title="Apache Parquet" alt="Apache Parquet">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/delta/default.svg" height="28" title="Delta Lake" alt="Delta Lake")
+</p>
+
+**ML & Analytics**
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pandas/default.svg" height="28" title="pandas" alt="pandas">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/numpy/default.svg" height="28" title="NumPy" alt="NumPy">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/scikit-learn/default.svg" height="28" title="scikit-learn" alt="scikit-learn">&nbsp;
@@ -31,25 +39,29 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://raw.githubusercontent.com/facebook/prophet/main/docs/static/logo.svg" height="28" title="Prophet" alt="Prophet">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mlflow/default.svg" height="28" title="MLflow" alt="MLflow">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dvc/default.svg" height="28" title="DVC" alt="DVC">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jupyter/default.svg" height="28" title="Jupyter" alt="Jupyter">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" height="28" title="FastAPI" alt="FastAPI">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydantic/default.svg" height="28" title="Pydantic" alt="Pydantic">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/plotly/default.svg" height="28" title="Plotly" alt="Plotly">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/streamlit/default.svg" height="28" title="Streamlit" alt="Streamlit">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-power-bi/default.svg" height="28" title="Power BI" alt="Power BI">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-excel/default.svg" height="28" title="Microsoft Excel" alt="Microsoft Excel">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" height="28" title="Grafana" alt="Grafana">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="28" title="GA4" alt="Google Analytics 4">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-tag-manager/default.svg" height="28" title="Google Tag Manager" alt="Google Tag Manager">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shopify/default.svg" height="28" title="Shopify API" alt="Shopify">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/meta/default.svg" height="28" title="Meta Ads API" alt="Meta Ads">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-ads/default.svg" height="28" title="Google Ads API" alt="Google Ads">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-power-bi/default.svg" height="28" title="Power BI" alt="Power BI">
+</p>
+
+**E-commerce & Activation**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shopify/default.svg" height="28" title="Shopify" alt="Shopify">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/stripe/default.svg" height="28" title="Stripe" alt="Stripe">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="28" title="Google Analytics 4" alt="Google Analytics">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/meta/default.svg" height="28" title="Meta Ads" alt="Meta Ads">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-ads/default.svg" height="28" title="Google Ads" alt="Google Ads">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tiktok/default.svg" height="28" title="TikTok Ads" alt="TikTok Ads">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" height="28" title="LinkedIn Ads" alt="LinkedIn Ads">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/whatsapp/default.svg" height="28" title="WhatsApp Business API" alt="WhatsApp API">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/whatsapp/default.svg" height="28" title="WhatsApp Business API" alt="WhatsApp">
+</p>
+
+**Infrastructure**
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-cloud/default.svg" height="28" title="Google Cloud" alt="Google Cloud">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg" height="28" title="Docker" alt="Docker">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" height="28" title="Git" alt="Git">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" height="28" title="GitHub Actions" alt="GitHub Actions">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="28" title="Claude Code" alt="Claude Code">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/terraform/default.svg" height="28" title="Terraform" alt="Terraform">
 </p>
