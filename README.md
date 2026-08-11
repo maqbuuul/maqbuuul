@@ -58,34 +58,50 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
 
 **📚 Exploring next:** <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" height="24" title="Databricks — learning" alt="Databricks" align="center"> <img src="https://raw.githubusercontent.com/apache/iceberg/main/site/docs/assets/images/iceberg-logo-icon.png" height="24" title="Apache Iceberg — learning" alt="Apache Iceberg" align="center"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/snowflake/default.svg" height="24" title="Snowflake — learning" alt="Snowflake" align="center"> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/terraform/default.svg" height="24" title="Terraform — learning" alt="Terraform" align="center"> — *studied open table formats and medallion architecture; taking these to production next.*
 
-## 🔨 Current Projects
 
-- **[cohort-kit](https://github.com/maqbuuul/cohort-kit)** — open-source dbt + Python engine: cohort triangles, NRR/GRR decomposition, and LTV from raw Stripe/Shopify-shaped transactions, one command. 🚧
-- **[shopify-profit-stack](https://github.com/maqbuuul/shopify-profit-stack)** — deployable reference stack: messy realistic data → warehouse → churn/LTV models → reverse-ETL-ready audience exports. 🚧
-- **The Glass Warehouse** — my own company's data platform, run in public: live indexed metrics and monthly forecasts graded against actuals. 🔜
 
-## 📌 How I think about data systems
+### Data Engineering
 
-1. **One source of truth first.** Models built on scattered data are opinions with extra steps.
-2. **Production or it doesn't count.** A notebook that ran once is a demo, not a system.
-3. **Close the loop.** A prediction that never reaches the ad platform or CRM changed nothing.
-4. **Measure honestly.** I publish my forecasts before the month happens — then grade them.
+<p align="left">
+  <img src="..." height="30" title="Python" alt="Python">&nbsp;
+  <img src="..." height="30" title="PostgreSQL" alt="PostgreSQL">&nbsp;
+  <img src="..." height="30" title="Snowflake" alt="Snowflake">&nbsp;
+  <img src="..." height="30" title="BigQuery" alt="BigQuery">&nbsp;
+  <img src="..." height="30" title="Databricks" alt="Databricks">&nbsp;
+  <img src="..." height="30" title="dbt" alt="dbt">&nbsp;
+  <img src="..." height="30" title="Airflow" alt="Airflow">&nbsp;
+  <img src="..." height="30" title="Spark" alt="Spark">&nbsp;
+  <img src="..." height="30" title="Kafka" alt="Kafka">
+</p>
 
-## 🌱 When I'm not building
+### Machine Learning
 
-- Writing about retention, cohort analysis, and profit-per-customer on [LinkedIn](https://linkedin.com/in/abdiwahid-ali).
-- Running the data behind my own consumer brands in Nairobi — the best test environment I could ask for.
-- I started in civil engineering and lost money on my first Shopify store. Both still shape how I build: find the failure points, and measure honestly.
+<p align="left">
+  <img src="..." height="30" title="pandas" alt="pandas">&nbsp;
+  <img src="..." height="30" title="NumPy" alt="NumPy">&nbsp;
+  <img src="..." height="30" title="scikit-learn" alt="scikit-learn">&nbsp;
+  <img src="..." height="30" title="XGBoost" alt="XGBoost">&nbsp;
+  <img src="..." height="30" title="LightGBM" alt="LightGBM">&nbsp;
+  <img src="..." height="30" title="MLflow" alt="MLflow">
+</p>
 
-📫 hello@yoolify.com · [yoolify.com](https://yoolify.com)
+### Analytics & Activation
 
-<!-- ══════════ PASTE UNTIL HERE ══════════ -->
----
+<p align="left">
+  <img src="..." height="30" title="Shopify" alt="Shopify">&nbsp;
+  <img src="..." height="30" title="Stripe" alt="Stripe">&nbsp;
+  <img src="..." height="30" title="Looker" alt="Looker">&nbsp;
+  <img src="..." height="30" title="Plotly" alt="Plotly">&nbsp;
+  <img src="..." height="30" title="Meta Ads" alt="Meta Ads">&nbsp;
+  <img src="..." height="30" title="Google Ads" alt="Google Ads">
+</p>
 
-# SETUP NOTES (for you, not the README)
+### Infrastructure
 
-**Strip order (mirrors the reference profile's use-case flow):** Languages (Python, Go) → Storage & Lakehouse (BigQuery, DuckDB, Delta, Parquet, PostgreSQL) → Pipelines (dbt, Airflow, Spark, Kafka) → ML & MLOps (pandas → Jupyter, 11 icons) → BI (Streamlit → Excel) → Ads & Tracking (Meta → WhatsApp) → Cloud & DevOps (GCP, Docker, Git, GH Actions, Claude Code). Category headers removed by design; hover tooltips carry the names. The strip wraps responsively — on wide screens it reads as 1–2 continuous lines like the reference.
-
-**Why the tiles look flat, not rounded:** the rounded tile background in the reference is baked into skillicons' SVG files; skillicons lacks ~33 of your tools (verified), and GitHub markdown can't add backgrounds to images. Flat official logos in a strip is the standard alternative (the Asad Sidow reference uses it).
-
-**Everything else unchanged:** all slugs verified HTTP 200 (thesvg + official LightGBM/Prophet/Iceberg repos — consider copying those three files into `maqbuuul/maqbuuul/assets/` for permanence; MIT/Apache-2.0 licensed). Exploring-next promotion rule stands: Databricks/Iceberg/Snowflake/Terraform move to the main strip the day they enter real use. Create the two Current Projects repos before pushing or the links 404. Pinned repos: cohort-kit · shopify-profit-stack · glass-warehouse · roas-illusion. Profile bio: "Profit & retention data systems for e-commerce brands · Churn · LTV · Reverse ETL".
+<p align="left">
+  <img src="..." height="30" title="AWS" alt="AWS">&nbsp;
+  <img src="..." height="30" title="Docker" alt="Docker">&nbsp;
+  <img src="..." height="30" title="Kubernetes" alt="Kubernetes">&nbsp;
+  <img src="..." height="30" title="Terraform" alt="Terraform">&nbsp;
+  <img src="..." height="30" title="GitHub Actions" alt="GitHub Actions">
+</p>
