@@ -50,7 +50,7 @@ Data Engineering & Processing
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-spark/default.svg" height="40" title="Apache Spark" alt="Apache Spark">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-flink/default.svg" height="40" title="Apache Flink" alt="Apache Flink">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-hadoop/default.svg" height="40" title="Apache Hadoop" alt="Apache Hadoop">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/kafka/default.svg" height="40" title="Apache Kafka" alt="Apache Kafka">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-kafka/mono.svg" height="40" title="Apache Kafka" alt="Apache Kafka">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg" height="40" title="DuckDB" alt="DuckDB">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dagster/default.svg" height="40" title="Dagster" alt="Dagster">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prefect/default.svg" height="40" title="Prefect" alt="Prefect">&nbsp;
