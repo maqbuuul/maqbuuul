@@ -81,39 +81,6 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
 
 </p>
 
-## 🔨 Current Projects
-
-- **[cohort-kit](https://github.com/maqbuuul/cohort-kit)** — open-source dbt + Python engine: cohort triangles, NRR/GRR decomposition, and LTV from raw Stripe/Shopify-shaped transactions, one command. 🚧
-- **[shopify-profit-stack](https://github.com/maqbuuul/shopify-profit-stack)** — deployable reference stack: messy realistic data → warehouse → churn/LTV models → reverse-ETL-ready audience exports. 🚧
-- **The Glass Warehouse** — my own company's data platform, run in public: live indexed metrics and monthly forecasts graded against actuals. 🔜
-
-## 📌 How I think about data systems
-
-1. **One source of truth first.** Models built on scattered data are opinions with extra steps.
-2. **Production or it doesn't count.** A notebook that ran once is a demo, not a system.
-3. **Close the loop.** A prediction that never reaches the ad platform or CRM changed nothing.
-4. **Measure honestly.** I publish my forecasts before the month happens — then grade them.
-
-## 🌱 When I'm not building
-
-- Writing about retention, cohort analysis, and profit-per-customer on [LinkedIn](https://linkedin.com/in/abdiwahid-ali).
-- Running the data behind my own consumer brands in Nairobi — the best test environment I could ask for.
-- I started in civil engineering and lost money on my first Shopify store. Both still shape how I build: find the failure points, and measure honestly.
-
-<!-- ══════════ PASTE UNTIL HERE ══════════ -->
----
-
-# SETUP NOTES (for you, not the README)
-
-**Removed from your draft — tools you haven't used in real work:** Scala, Java, MySQL, SQLite, MongoDB, Redis, Neo4j, ClickHouse, Snowflake, Databricks, Trino, MinIO, Flink, Hadoop, Dagster, Prefect, Airbyte, PyTorch, TensorFlow, Tableau, Looker, Superset, Prometheus, JSON Schema, GDAL, PyPI, Pandoc, Dataiku, AWS, Athena, Azure, Stripe, Amplitude, Mixpanel, Kubernetes, Slack, OpenAI, Cloudflare, Taboola, n8n. Each is one interview question away from undermining every honest claim on the page. Add any of them back the day it's true — Snowflake and Stripe in particular are worth *learning* for this niche, then adding.
-
-**Judgment calls kept:** Go (your completed curriculum + real practice), Pydantic (FastAPI work), GTM (your conversion-tracking work), LinkedIn (you run LinkedIn Ads), Parquet (Delta/Spark work), Claude (honest and increasingly a positive signal). Cut Kubernetes (scaffolded once ≠ stack).
-
-**Verification:** all 40 slugs confirmed HTTP 200 against glincker/thesvg — including dbt, delta, duckdb, xgboost, mlflow, dvc, google-tag-manager. Missing from every library: LightGBM, Prophet (text line), Excel (omit).
-
-**Before pushing:** create the two Current Projects repos (even README-only) or the links 404. Pinned repos, hygiene rules, and profile settings as before: cohort-kit · shopify-profit-stack · glass-warehouse · roas-illusion first; every pinned README opens with the business problem; topics `churn`, `ltv`, `cohort-analysis`, `dbt`, `ecommerce`, `reverse-etl`; bio "Profit & retention data systems for e-commerce brands · Churn · LTV · Reverse ETL".
-
-
 
 
 # GitHub Profile Setup — github.com/maqbuuul
@@ -208,6 +175,16 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
 </p>
 
+**📚 Exploring next**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" height="34" title="Databricks — learning" alt="Databricks">&nbsp;
+  <img src="https://raw.githubusercontent.com/apache/iceberg/main/site/docs/assets/images/iceberg-logo-icon.png" height="34" title="Apache Iceberg — learning" alt="Apache Iceberg">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/snowflake/default.svg" height="34" title="Snowflake — learning" alt="Snowflake">&nbsp;
+</p>
+
+*Studied open table formats and medallion architecture; taking these to production next.*
+
 ## 🔨 Current Projects
 
 - **[cohort-kit](https://github.com/maqbuuul/cohort-kit)** — open-source dbt + Python engine: cohort triangles, NRR/GRR decomposition, and LTV from raw Stripe/Shopify-shaped transactions, one command. 🚧
@@ -235,6 +212,8 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
 **Removed from your draft — tools you haven't used in real work:** Scala, Java, MySQL, SQLite, MongoDB, Redis, Neo4j, ClickHouse, Snowflake, Databricks, Trino, MinIO, Flink, Hadoop, Dagster, Prefect, Airbyte, PyTorch, TensorFlow, Tableau, Looker, Superset, Prometheus, JSON Schema, GDAL, PyPI, Pandoc, Dataiku, AWS, Athena, Azure, Stripe, Amplitude, Mixpanel, Kubernetes, Slack, OpenAI, Cloudflare, Taboola, n8n. Each is one interview question away from undermining every honest claim on the page. Add any of them back the day it's true — Snowflake and Stripe in particular are worth *learning* for this niche, then adding.
 
 **Judgment calls kept:** Go (your completed curriculum + real practice), Pydantic (FastAPI work), GTM (your conversion-tracking work), LinkedIn (you run LinkedIn Ads), Parquet (Delta/Spark work), Claude (honest and increasingly a positive signal). Cut Kubernetes (scaffolded once ≠ stack).
+
+**The "Exploring next" row:** Databricks, Iceberg, and Snowflake appear at smaller size under an explicit learning label — ambition shown honestly, no production claim. Their icons are verified (thesvg for Databricks/Snowflake; Apache Iceberg's own repo for its logo, Apache-2.0 licensed). The promotion rule: the day one of them runs in a real project, it moves to the main grid at full size and leaves this row. If you genuinely already use Databricks somewhere I don't know about, tell Claude and it moves today. "Lakehouse" itself is architecture, not a tool — it's what your Delta + Spark + BigQuery row already says.
 
 **Verification:** all thesvg slugs confirmed HTTP 200 against glincker/thesvg — including dbt, delta, duckdb, xgboost, mlflow, dvc, google-tag-manager, microsoft-excel. LightGBM and Prophet use their projects' own official repos (microsoft/LightGBM `LightGBM_logo_no_text.svg`; facebook/prophet `docs/static/logo.svg`, square 72.6×72 viewBox) — both verified 200. Every icon on the page is now a real official logo; nothing is a lookalike and nothing renders as text-only. Note: these two URLs point at `master`/`main` branches of live repos — if either project ever moves the file, the icon breaks silently, so glance at your profile occasionally or copy both SVGs into your own repo (e.g. `maqbuuul/maqbuuul/assets/`) and reference them locally for permanence. Copying is fine: LightGBM is MIT-licensed; Prophet is MIT-licensed.
 
