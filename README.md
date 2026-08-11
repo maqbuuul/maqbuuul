@@ -46,6 +46,7 @@ Data Engineering & Processing
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-airflow/default.svg" height="40" title="Apache Airflow" alt="Apache Airflow">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/airflow/default.svg" height="40" title="Apache Airflow" alt="Apache Airflow">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-spark/default.svg" height="40" title="Apache Spark" alt="Apache Spark">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-flink/default.svg" height="40" title="Apache Flink" alt="Apache Flink">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-hadoop/default.svg" height="40" title="Apache Hadoop" alt="Apache Hadoop">&nbsp;
