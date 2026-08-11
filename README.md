@@ -77,6 +77,8 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-cloud/default.svg" height="40" title="Google Cloud" alt="Google Cloud">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/terraform/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
+
 </p>
 
 ## 🔨 Current Projects
