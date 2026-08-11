@@ -1,11 +1,3 @@
-Data Stack — theSVG SVG Links
-
-Important: this version uses the exact CDN URL format shown on theSVG icon pages.I removed the guessed/nonexistent slugs from the previous file.
-
-Source: urltheSVGhttps://thesvg.org/
-
-Correct format
-
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" title="Python" alt="Python">
 
 README stack
