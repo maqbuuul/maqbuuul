@@ -1,12 +1,3 @@
-# GitHub Profile Setup — github.com/maqbuuul
-
-**How this works:** create a public repo named exactly `maqbuuul`, add a `README.md`, and GitHub shows it on your profile. Everything between the markers is paste-ready. Structure modeled on the two profiles you shared (intro line → icon strip → tagline quote → current projects → personal notes).
-
-**Icon verification:** primary icons come from devicons.io (every URL below appears verbatim in their published catalog — including the real dbt logo, which no other library has). Gaps devicons.io doesn't cover (DuckDB, scikit-learn, Streamlit, Plotly, MLflow, DVC, TikTok, WhatsApp) use the two sources verified earlier at identical size, so the grid renders uniform. XGBoost, LightGBM, Prophet, and Delta Lake exist in no icon library and stay as text — never substitute lookalikes.
-
----
-<!-- ══════════ PASTE FROM HERE INTO maqbuuul/maqbuuul/README.md ══════════ -->
-
 # Hi, I'm Abdiwahid 👋
 
 Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yoolify](https://yoolify.com) | [LinkedIn](https://linkedin.com/in/abdiwahid-ali) | 📫 hello@yoolify.com
