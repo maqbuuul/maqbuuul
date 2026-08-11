@@ -38,6 +38,7 @@ Data Warehouses & Lakehouse
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="40" title="Google BigQuery" alt="Google BigQuery">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/trino/default.svg" height="40" title="Trino" alt="Trino">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/minio/default.svg" height="40" title="MinIO" alt="MinIO">&nbsp;
+  
 </p>
 
 Data Engineering & Processing
@@ -52,6 +53,7 @@ Data Engineering & Processing
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dagster/default.svg" height="40" title="Dagster" alt="Dagster">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prefect/default.svg" height="40" title="Prefect" alt="Prefect">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/airbyte/default.svg" height="40" title="Airbyte" alt="Airbyte">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Airbyte" alt="Airbyte">&nbsp;
 </p>
 
 Data Science & ML
