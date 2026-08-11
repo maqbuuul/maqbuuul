@@ -2,7 +2,7 @@
 
 **How this works:** create a public repo named exactly `maqbuuul` (same as your username), add a `README.md`, and GitHub displays it on your profile page. Everything between the markers below is the paste-ready README.
 
-**About the badges (verified):** every logo below was checked against the simple-icons library that shields.io actually serves — all of them render with their real official logos on GitHub. Six tools (dbt, XGBoost, LightGBM, Prophet, Delta Lake, Power BI) have **no official logo in any badge library** (several were removed under trademark policy), so they render as clean brand-colored badges without an icon — the standard convention on professional profiles. Nothing here will show as broken.
+**Icon verification:** all Devicon icons below were verified file-by-file (HTTP 200) against the official devicons/devicon repository. Tools Devicon doesn't carry use the simple-icons CDN (`cdn.simpleicons.org`) with each brand's real official logo in brand color, at the same size — the grid renders uniform. Five tools exist in no icon library (dbt, XGBoost, LightGBM, Prophet, Delta Lake — trademark removals); they appear as a text caption. Nothing will render broken.
 
 ---
 <!-- ══════════ PASTE FROM HERE INTO maqbuuul/maqbuuul/README.md ══════════ -->
@@ -31,51 +31,55 @@ I came to data by losing money on my own Shopify store — I couldn't see which 
 
 ## 🧰 Stack
 
-**Data Engineering**
+**Data Engineering & Warehouses**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" title="Python" alt="Python"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="42" title="SQL / PostgreSQL" alt="PostgreSQL"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="42" title="Apache Airflow" alt="Apache Airflow"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="42" title="PySpark" alt="Apache Spark"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="42" title="Apache Kafka" alt="Apache Kafka"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="42" title="Google Cloud / BigQuery" alt="Google Cloud"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" height="42" title="DuckDB" alt="DuckDB"/>
+</p>
 
-**Warehouses & Lakehouses**
-
-![Google BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+*Plus: dbt · Delta Lake*
 
 **Machine Learning & MLOps**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB0028?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
-![Prophet](https://img.shields.io/badge/Prophet-0668E1?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="42" title="scikit-learn" alt="scikit-learn"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="42" title="pandas" alt="pandas"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="42" title="NumPy" alt="NumPy"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="42" title="Jupyter" alt="Jupyter"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="42" title="FastAPI" alt="FastAPI"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="42" title="MLflow" alt="MLflow"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/dvc/13ADC7" height="42" title="DVC" alt="DVC"/>
+</p>
+
+*Plus: XGBoost · LightGBM · Prophet*
 
 **Activation & Analytics**
 
-![Shopify](https://img.shields.io/badge/Shopify%20API-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads%20API-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![TikTok Ads](https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="42" title="Shopify API" alt="Shopify"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/meta/0668E1" height="42" title="Meta Ads API" alt="Meta Ads"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" height="42" title="Google Ads API" alt="Google Ads"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/tiktok/000000" height="42" title="TikTok Ads" alt="TikTok Ads"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42" title="WhatsApp API" alt="WhatsApp API"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="42" title="GA4" alt="Google Analytics 4"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="42" title="Streamlit" alt="Streamlit"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" height="42" title="Plotly" alt="Plotly"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="42" title="Grafana" alt="Grafana"/>
+</p>
 
 **Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" title="Git" alt="Git"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="42" title="GitHub Actions" alt="GitHub Actions"/>
+</p>
 
 ---
 
@@ -95,7 +99,11 @@ I came to data by losing money on my own Shopify store — I couldn't see which 
 
 # SETUP NOTES (for you, not the README)
 
-**Badge verification record:** logos confirmed present in simple-icons: python, postgresql, apacheairflow, apachespark, apachekafka, googlebigquery, duckdb, scikitlearn, mlflow, dvc, fastapi, pandas, numpy, shopify, meta, googleads, tiktok, whatsapp, googleanalytics, streamlit, plotly, grafana, docker, git, githubactions. No official badge-library logo exists for: dbt, XGBoost, LightGBM, Prophet, Delta Lake, Power BI (rendered as brand-color text badges by design). Style is `for-the-badge` (larger, bolder); change every `style=for-the-badge` to `style=flat` if you prefer compact.
+**Icon sources & verification:**
+- Devicon icons (18): served from `raw.githubusercontent.com/devicons/devicon` — every URL above verified HTTP 200 file-by-file. Hover any icon on your live profile to see its tooltip name.
+- simple-icons CDN (8): `cdn.simpleicons.org/<slug>/<hexcolor>` serves each brand's official logo in its brand color — slugs (mlflow, dvc, shopify, meta, googleads, tiktok, whatsapp, googleanalytics) verified against the simple-icons registry.
+- No icon library carries: dbt, XGBoost, LightGBM, Prophet, Delta Lake — listed as text captions by design; do not substitute lookalike logos.
+- Size: all icons `height="42"`. Change every `height="42"` in one find-and-replace to resize the whole grid.
 
 **Pinned repositories (6 slots — fill in this order as they exist):**
 1. `cohort-kit` 2. `shopify-profit-stack` 3. `glass-warehouse` (or its site repo) 4. `roas-illusion` calculator 5–6. Your two strongest existing practice projects, *renamed and re-README'd* in niche language (READMEs must open with the business problem, not the library list).
