@@ -6,6 +6,7 @@ Languages & Core Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" title="Python" alt="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydantic/default.svg" height="40" title="Python" alt="Python">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/scala/default.svg" height="40" title="Scala" alt="Scala">&nbsp;
 </p>
 
