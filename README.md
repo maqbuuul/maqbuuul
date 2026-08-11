@@ -121,13 +121,15 @@ Platform Engineering
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/slack/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cloudflare/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/taboola/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/n8n/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws-amazon-athena/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+
+  
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
