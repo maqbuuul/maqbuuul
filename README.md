@@ -6,9 +6,16 @@ Languages & Core Data
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" title="Python" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydantic/default.svg" height="40" title="Python" alt="Python">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/scala/default.svg" height="40" title="Scala" alt="Scala">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="40" title="Go" alt="Scala">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/java/default.svg" height="40" title="Java" alt="Scala">&nbsp;
 </p>
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pydantic/default.svg" height="40" title="Pydantic" alt="Python">&nbsp;
+</p>
+
+
 
 Databases
 
@@ -19,7 +26,6 @@ Databases
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg" height="40" title="MongoDB" alt="MongoDB">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/redis/default.svg" height="40" title="Redis" alt="Redis">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/neo4j/default.svg" height="40" title="Neo4j" alt="Neo4j">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/h2-database/default.svg" height="40" title="H2 Database" alt="H2 Database">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/clickhouse/default.svg" height="40" title="ClickHouse" alt="ClickHouse">&nbsp;
 </p>
 
@@ -31,7 +37,9 @@ Data Warehouses & Lakehouse
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="40" title="Google BigQuery" alt="Google BigQuery">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/trino/default.svg" height="40" title="Trino" alt="Trino">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/minio/default.svg" height="40" title="MinIO" alt="MinIO">&nbsp;
-  
+  <img src=" https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/delta/default.svg" height="40" title="Delta Lake" alt="MinIO">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-parquet/default.svg" height="40" title="Apache Parquet" alt="MinIO">&nbsp;
+ 
 </p>
 
 Data Engineering & Processing
