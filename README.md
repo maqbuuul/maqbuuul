@@ -13,7 +13,7 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="32" title="Python" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="32" title="Go" alt="Go">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="27" title="Go" alt="Go">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="32" title="Google BigQuery" alt="Google BigQuery">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg" height="32" title="DuckDB" alt="DuckDB">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/delta/default.svg" height="32" title="Delta Lake" alt="Delta Lake">&nbsp;
