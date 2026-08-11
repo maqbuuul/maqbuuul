@@ -108,140 +108,34 @@ Platform Engineering
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" height="40" title="GitHub Actions" alt="GitHub Actions">&nbsp;
 </p>
 
-Individual SVG URLs
 
-Languages & Core Data
 
-Python — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg
 
-Scala — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/scala/default.svg
 
-Databases
-
-PostgreSQL — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg
-
-MySQL — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg
-
-SQLite — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/sqlite/default.svg
-
-MongoDB — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mongodb/default.svg
-
-Redis — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/redis/default.svg
-
-Neo4j — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/neo4j/default.svg
-
-H2 Database — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/h2-database/default.svg
-
-ClickHouse — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/clickhouse/default.svg
-
-Data Warehouses & Lakehouse
-
-Snowflake — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/snowflake/default.svg
-
-Databricks — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg
-
-Google BigQuery — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg
-
-Trino — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/trino/default.svg
-
-MinIO — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/minio/default.svg
-
-Data Engineering & Processing
-
-Apache Airflow — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-airflow/default.svg
-
-Apache Spark — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-spark/default.svg
-
-Apache Flink — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-flink/default.svg
-
-Apache Hadoop — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-hadoop/default.svg
-
-Apache Kafka — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/kafka/default.svg
-
-DuckDB — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg
-
-Dagster — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dagster/default.svg
-
-Prefect — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prefect/default.svg
-
-Airbyte — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/airbyte/default.svg
-
-Data Science & ML
-
-pandas — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pandas/default.svg
-
-NumPy — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/numpy/default.svg
-
-scikit-learn — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/scikit-learn/default.svg
-
-PyTorch — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pytorch/default.svg
-
-TensorFlow — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tensorflow/default.svg
-
-Analytics, BI & Visualization
-
-Tableau — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg
-
-Looker — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/looker/default.svg
-
-Apache Superset — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-superset/default.svg
-
-Plotly — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/plotly/default.svg
-
-Grafana — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg
-
-Prometheus — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/prometheus/default.svg
-
-Streamlit — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/streamlit/default.svg
-
-Jupyter — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jupyter/default.svg
-
-Data Quality, Schema & Supporting Tools
-
-JSON Schema — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/json-schema/default.svg
-
-GDAL — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gdal/default.svg
-
-PyPI — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pypi/default.svg
-
-Pandoc — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/pandoc/default.svg
-
-Dataiku — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dataiku/default.svg
-
-Cloud Data Platforms
-
-AWS — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg
-
-Google Cloud — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-cloud/default.svg
-
-Microsoft Azure — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-azure/default.svg
-
-Customer / Product Data
-
-Shopify — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/shopify/default.svg
-
-Stripe — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/stripe/default.svg
-
-Amplitude — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/amplitude/default.svg
-
-Mixpanel — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mixpanel/default.svg
-
-Platform Engineering
-
-Docker — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/docker/default.svg
-
-Kubernetes — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/kubernetes/default.svg
-
-Git — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg
-
-GitHub — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/default.svg
-
-GitHub Actions — https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg
-
-Why the previous file broke
-
-The previous file used a mixture of guessed slugs and a different CDN path. theSVG's icon pages expose the working CDN form as https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/<slug>/default.svg.
-
-Do not change /default.svg to /icons/<slug>.svg when using this verified version.
-
-TheSVG documents the same CDN pattern on its Apache Spark, Apache Kafka, NumPy, JSON Schema and other icon pages.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/meta/default.svg" height="40" title="Kubernetes" alt="Kubernetes">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tiktok/default.svg" height="40" title="Git" alt="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-ads/default.svg" height="40" title="GitHub" alt="GitHub">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-tag-manager/default.svg" height="40" title="GitHub Actions" alt="GitHub Actions">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/slack/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-analytics/default.svg" height="40" title="Docker" alt="Docker">&nbsp;
+  
+</p>
