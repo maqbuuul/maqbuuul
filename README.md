@@ -12,9 +12,9 @@
 Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yoolify](https://yoolify.com) | [LinkedIn](https://linkedin.com/in/abdiwahid-ali)
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="42" title="Python" alt="Python">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="42" title="Go" alt="Go">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="42" title="Google BigQuery" alt="Google BigQuery">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="32" title="Python" alt="Python">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" height="32" title="Go" alt="Go">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-bigquery/default.svg" height="32" title="Google BigQuery" alt="Google BigQuery">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg" height="42" title="DuckDB" alt="DuckDB">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/delta/default.svg" height="42" title="Delta Lake" alt="Delta Lake">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-parquet/default.svg" height="42" title="Apache Parquet" alt="Apache Parquet">&nbsp;
