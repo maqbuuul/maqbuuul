@@ -1,12 +1,3 @@
-# GitHub Profile Setup — github.com/maqbuuul
-
-**How this works:** create a public repo named exactly `maqbuuul`, add a `README.md`, and GitHub shows it on your profile. Everything between the markers is paste-ready.
-
-**Icon source:** all icons from thesvg.org (glincker/thesvg via jsDelivr) — every slug below verified HTTP 200 against the source repo, including dbt, Delta Lake, DuckDB, XGBoost, MLflow, DVC, and Google Tag Manager, which no other library carried. Only LightGBM and Prophet exist in no icon library; they stay as text. Errors fixed from the draft: duplicate Airflow/GA/Go entries removed, Kafka switched from mono to default, leading space in the Delta URL removed, and all copy-pasted wrong title/alt labels corrected (several icons were labeled "Docker").
-
----
-<!-- ══════════ PASTE FROM HERE INTO maqbuuul/maqbuuul/README.md ══════════ -->
-
 # Hi, I'm Abdiwahid 👋
 
 Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yoolify](https://yoolify.com) | [LinkedIn](https://linkedin.com/in/abdiwahid-ali) | 📫 hello@yoolify.com
@@ -55,8 +46,6 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/jupyter/default.svg" height="40" title="Jupyter" alt="Jupyter">&nbsp;
 </p>
 
-*Also: LightGBM · Prophet*
-
 **Analytics & BI**
 
 <p align="left">
@@ -87,6 +76,7 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-actions/default.svg" height="40" title="GitHub Actions" alt="GitHub Actions">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-cloud/default.svg" height="40" title="Google Cloud" alt="Google Cloud">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="40" title="Claude (AI-assisted development)" alt="Claude">&nbsp;
 </p>
 
 ## 🔨 Current Projects
