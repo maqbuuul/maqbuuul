@@ -23,7 +23,7 @@ Nairobi, Kenya | [Growth & Retention Data Engineer](https://yoolify.com) | [Yool
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" height="28" title="Databricks" alt="Databricks">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/duckdb/default.svg" height="28" title="DuckDB" alt="DuckDB">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/dbt/default.svg" height="28" title="dbt" alt="dbt">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-airflow/default.svg" height="28" title="Apache Airflow" alt="Apache Airflow">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/airflow/default.svg" height="28" title="Apache Airflow" alt="Apache Airflow">
 </p>
 
 **Lakehouse & Streaming**
