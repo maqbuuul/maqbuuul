@@ -1,113 +1,83 @@
-# Hi, I'm Abdiwahid 👋
+Hi, I'm Abdiwahid 👋
 
-**I build profit and retention data systems for e-commerce and subscription businesses.**
+I build profit and retention data systems for e-commerce andsubscription businesses.
 
-I work across **data engineering, analytics, and machine learning** to turn messy customer and transaction data into systems that answer:
+I work across data engineering, analytics, and machine learning toturn messy customer and transaction data into production systems forchurn, LTV, cohort analysis, margin, and customer activation.
 
-* Which customers are actually profitable?
-* Who is likely to churn?
-* What is each cohort worth?
-* Where should the next dollar of ad spend go?
+17 ML models in production.
 
-**17 ML models in production**, including systems powering two companies I co-own.
+Website ·LinkedIn · hello@yoolify.com
 
-🔗 [yoolify.com](https://yoolify.com) · [LinkedIn](https://linkedin.com/in/abdiwahid-ali) · 📫 [hello@yoolify.com](mailto:hello@yoolify.com)
+What I build
 
----
+Customer intelligence --- churn, LTV, cohorts, retention, andprofitability
 
-## Currently building
+Data platforms --- reliable warehouses, pipelines,transformations, and production ML
 
-| Project                  | What it does                                                                        | Status         |
-| ------------------------ | ----------------------------------------------------------------------------------- | -------------- |
-| **cohort-kit**           | Open-source dbt + Python toolkit for cohort analysis, NRR/GRR, and LTV              | 🚧 In progress |
-| **shopify-profit-stack** | Production-style e-commerce data stack for profit, churn, LTV, and activation       | 🚧 In progress |
-| **The Glass Warehouse**  | My company's data platform, built in public with live metrics and forecast tracking | 🔜 Launching   |
+Activation systems --- turn predictions into audiences for Meta,Google, TikTok, and CRM
 
----
+Open-source tooling --- practical data infrastructure fore-commerce teams
 
-## Stack
+Currently building
 
-### Data Engineering
+Project                             Description
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" height="40" title="dbt" alt="dbt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="40" title="Apache Airflow" alt="Apache Airflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" title="Apache Spark" alt="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="40" title="Apache Kafka" alt="Apache Kafka"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" title="Google Cloud" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" height="40" title="DuckDB" alt="DuckDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="40" title="Snowflake" alt="Snowflake"/>
+cohort-kit                      Open-source dbt + Python toolkitfor cohort analysis, NRR/GRR, andLTV
+
+shopify-profit-stack            Production-style e-commerce stackfor profit, churn, LTV, andactivation
+
+Stack
+
+Data Engineering
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python" alt="Python">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="40" title="Apache Airflow" alt="Apache Airflow">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="40" title="Apache Spark" alt="Apache Spark">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="40" title="Apache Kafka" alt="Apache Kafka">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" title="Google Cloud" alt="Google Cloud">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" height="40" title="DuckDB" alt="DuckDB">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="Amazon Web Services" alt="AWS">{=html}
+
 </p>
 
-**Also:** Delta Lake · AWS Neptune
+Also: dbt · Delta Lake · AWS Neptune
 
-### Machine Learning
+Machine Learning
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" title="pandas" alt="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mlflow/mlflow-original.svg" height="40" title="MLflow" alt="MLflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dvc/dvc-original.svg" height="40" title="DVC" alt="DVC"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn" alt="scikit-learn">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" title="pandas" alt="pandas">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter" alt="Jupyter">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI" alt="FastAPI">{=html}
+
 </p>
 
-**Also:** XGBoost · LightGBM · Prophet
+Also: XGBoost · LightGBM · Prophet · MLflow · DVC
 
-### Growth & Analytics
+Analytics & Activation
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" height="40" title="Shopify" alt="Shopify"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meta/meta-original.svg" height="40" title="Meta" alt="Meta"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googleads/googleads-original.svg" height="40" title="Google Ads" alt="Google Ads"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tiktok/tiktok-original.svg" height="40" title="TikTok" alt="TikTok"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/whatsapp/whatsapp-original.svg" height="40" title="WhatsApp" alt="WhatsApp"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googleanalytics/googleanalytics-original.svg" height="40" title="Google Analytics" alt="Google Analytics"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" title="Streamlit" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" title="Plotly" alt="Plotly"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="40" title="Grafana" alt="Grafana"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" height="40" title="Streamlit" alt="Streamlit">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" height="40" title="Plotly" alt="Plotly">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" title="Grafana" alt="Grafana">{=html}
+
 </p>
 
-### Engineering & MLOps
+Also: Shopify · Meta Ads · Google Ads · TikTok Ads · WhatsApp · GA4
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" alt="GitHub Actions"/>
+Engineering & MLOps
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git" alt="Git">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub">{=html}<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" alt="GitHub Actions">{=html}
+
 </p>
 
----
+How I think about data systems
 
-## Principles
+01 --- One source of truthModels built on scattered data are opinions with extra steps.
 
-**01 — One source of truth**
-Models built on scattered data are opinions with extra steps.
+02 --- Production or it doesn't countA notebook that ran once is a demo, not a system.
 
-**02 — Production or it doesn't count**
-A notebook that ran once is a demo, not a system.
+03 --- Close the loopA prediction that never reaches the ad platform or CRM changed nothing.
 
-**03 — Close the loop**
-A prediction that never reaches the ad platform or CRM changed nothing.
+04 --- Measure honestlyI publish forecasts before the month happens, then grade them againstreality.
 
-**04 — Measure honestly**
-I publish forecasts before the month happens, then grade them against reality.
+Connect
 
----
+Website ·LinkedIn
 
-## Open to
-
-Collaborations on **retention analytics, cohort tooling, e-commerce data infrastructure, and production ML systems.**
-
-<!--
-Profile:
-Name: Abdiwahid Ali
-Bio: Profit & retention data systems for e-commerce brands · Churn · LTV · Reverse ETL
-Location: Nairobi, Kenya (Remote)
-Website: https://yoolify.com
-Email: hello@yoolify.com
--->
+Open to: retention analytics, cohort tooling, e-commerce datainfrastructure, and production ML collaborations.
