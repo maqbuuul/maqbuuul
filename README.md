@@ -1,17 +1,17 @@
 # Abdiwahid Ali
 
-### Customer & Marketing Data Engineer
+### Data Engineer | Customer & Marketing Data
 
-I build data systems that connect **marketing, customers, operations, and revenue**.
+I’m a Data Engineer specializing in **customer and marketing data**.
 
-**Getting a click is easy. Proving what it produced is the hard part.**
+I build the systems that collect, track, transform, and connect marketing activity with **customers, conversions, and revenue**.
 
-I build the infrastructure that makes acquisition, customer outcomes, attribution, and revenue **measurable and traceable**.
+From campaign tracking and data pipelines to attribution and revenue reconciliation, I make marketing performance **measurable, traceable, and reliable**.
 
-- **Marketing Data:** Ads, analytics, CRM, and operational systems
-- **Customer Data:** Segmentation, cohorts, retention, churn, and LTV
-- **Attribution:** Campaign performance and revenue reconciliation
-- **Analytics Engineering:** Warehouses, dbt, testing, modeling, and ML
+- **Customer Data:** Customer 360, segmentation, cohorts, retention, churn, and LTV
+- **Marketing Data:** Campaign tracking, ad platforms, analytics, CRM, and conversion data
+- **Attribution:** Connecting marketing touchpoints to customers, conversions, and revenue
+- **Data Engineering:** Pipelines, warehouses, dbt, data quality, modeling, and automation
 
 ---
 
