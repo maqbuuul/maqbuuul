@@ -1,23 +1,61 @@
 # Abdiwahid Ali
+
 ### Customer & Marketing Data Engineer
 
-I connect marketing, customers, and revenue — turning fragmented business data into pipelines and decisions.
+I build data systems that connect **marketing, customers, operations, and revenue**.
 
-**Getting a click is easy. Proving what it produced is not.**
+**Getting a click is easy. Proving what it produced is the hard part.**
 
-Ad click → Lead → Customer → Booking → Attendance → Revenue — I build the infrastructure that makes that chain measurable and defensible.
+I build the infrastructure that makes acquisition, customer outcomes, attribution, and revenue **measurable and traceable**.
 
-- **Marketing data systems** — ad platforms, analytics, CRMs, operational data, unified
-- **Customer data platforms** — segmentation, cohorts, retention, churn, LTV
-- **Marketing attribution & revenue reconciliation** — tracing revenue back to its source
-- **Analytics engineering** — warehouses, dbt, tested transformations, predictive models
-
-Public repos here are a subset — most production platforms are private/client-owned, but the same patterns show up: reliable pipelines, tested transformations, attribution, reconciliation.
+- **Marketing Data:** Ads, analytics, CRM, and operational systems
+- **Customer Data:** Segmentation, cohorts, retention, churn, and LTV
+- **Attribution:** Campaign performance and revenue reconciliation
+- **Analytics Engineering:** Warehouses, dbt, testing, modeling, and ML
 
 ---
 
-<div align="center">
+## Architecture
 
+```mermaid
+flowchart LR
+
+    A["Marketing<br/>Ads + Analytics"]
+    B["Customers<br/>CRM"]
+    C["Revenue<br/>Payments + Operations"]
+
+    D["Ingestion<br/>Airbyte + APIs"]
+    E["Warehouse<br/>BigQuery + Snowflake"]
+    F["Transformation<br/>dbt + Python"]
+
+    G["Customer 360"]
+    H["Attribution"]
+    I["Revenue"]
+
+    J["Analytics & BI"]
+    K["Decisions"]
+
+    A --> D
+    B --> D
+    C --> D
+
+    D --> E
+    E --> F
+
+    F --> G
+    F --> H
+    F --> I
+
+    G --> J
+    H --> J
+    I --> J
+
+    J --> K
+
+```
+
+
+---
 <p align="left">
   <img src="https://simpleicons.dev/icons?icons=python&color=F3F4F6" width="32" height="32" alt="Python" title="Python"/>
   <img src="https://simpleicons.dev/icons?icons=gnubash&color=F3F4F6" width="32" height="32" alt="Bash" title="Bash"/>
@@ -48,7 +86,6 @@ Public repos here are a subset — most production platforms are private/client-
   <img src="https://simpleicons.dev/icons?icons=git&color=F3F4F6" width="32" height="32" alt="Git" title="Git"/>
   <img src="https://simpleicons.dev/icons?icons=githubactions&color=F3F4F6" width="32" height="32" alt="GitHub Actions" title="GitHub Actions"/>
 </p>
-
 </div>
 
 ---
